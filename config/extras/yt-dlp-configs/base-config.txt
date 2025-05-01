@@ -1,0 +1,10 @@
+# Extract audio only
+--extract-audio
+# Set audio format to mp3
+--audio-format mp3
+# Set audio quality (0=best, 10=worst)
+--audio-quality 0
+# Embed thumbnail in audio file
+--embed-thumbnail
+# Add metadata to audio file
+--add-metadata
