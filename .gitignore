@@ -1,0 +1,4 @@
+config/*
+downloads/*
+!config/.gitkeep
+!downloads/.gitkeep
